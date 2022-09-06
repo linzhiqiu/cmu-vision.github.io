@@ -1,0 +1,5 @@
+name:: Zhiqiu Lin
+img:: https://linzhiqiu.github.io/images/profile.jpg
+url:: linzhiqiu.github.io
+program:: PhD
+year:: 2020
